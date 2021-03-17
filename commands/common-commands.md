@@ -18,4 +18,7 @@
         * `git checkout -b new-branch`
         * `git checkout -- file.js`
     * good to know:
-        * git checkout can be used to view previous commits in the git history, this causes a state called "detached head" which means what you are viewing and working on is in a untrackable state (not on a branch) - if you were to make changes and then checkout a branch there would be no way to reference the changes you made
+        * git checkout can be used to view previous commits in the git history, this causes a state
+        called "detached head" which means what you are viewing and working on is in a untrackable
+        state (not on a branch) - if you were to make changes and then checkout a branch there would
+        be no way to reference the changes you made
